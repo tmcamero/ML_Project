@@ -13,7 +13,7 @@ README.md
 
 a. Overview Document detailing repository contents
 
-Pediatric_Brain_Cancer.xlxs
+Pediatric_Brain_Patients.xlxs
 
 a. Excel file for project created using SEER*Stat Software
 
