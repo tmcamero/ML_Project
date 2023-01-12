@@ -13,18 +13,18 @@ README.md
 
 a. Overview Document detailing repository contents
 
-youth_cancer.xlxs top_cancers.xlxs
+Pediatric_Brain_Cancer.xlxs
 
-a. Excel files for project created using SEER*Stat Software
+a. Excel file for project created using SEER*Stat Software
 
-Scripts
+Pediatric_Brain_Cancer.ipynb
 
 a. All scripts used for analysis
 
-Teresa_Cameron_HI2454_Pediatric_Cancer_Survival_Report.pdf
+Survival_Prediction_of_Pediatric_Brain_Cancer_Patients_Report.pdf
 
 a. Project Report
 
-Teresa_Cameron_HI2454_Pediatric_Cancer_Survival_Presentation.pdf
+Survival_Prediction_of_Pediatric_Brain_Cancer_Patients_Presentation.pdf
 
 a. Project Presentation
